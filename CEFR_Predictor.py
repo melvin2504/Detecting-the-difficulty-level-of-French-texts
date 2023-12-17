@@ -1,7 +1,7 @@
 import streamlit as st
 from model_predictor import FrenchSentenceDifficultyPredictor
 
-model_path = r'E:/hec masters/DSML/cefr_predictor/model/modelforApp.pth'
+model_path = r'E:/hec masters/DSML/cefr_predictor/model/model_for_stremlitApp.pkl'
 label_encoder_path = r'E:/hec masters/DSML/cefr_predictor/model/label_encoderforApp.pkl'
 
 # Create an instance of the predictor

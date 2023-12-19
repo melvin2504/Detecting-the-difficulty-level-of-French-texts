@@ -89,4 +89,23 @@ To interact with our model via an engaging Streamlit application, follow these i
   
 ![Project Screenshot](images/terminal.PNG)
 
-## Enjoy Interacting with Our French Text Difficulty Predictor !
+## Next Steps for Model Improvement 🛠️
+
+### Hyperparameter Optimization 🎛️
+
+One of the most impactful next steps is to conduct extensive hyperparameter tuning on the CamemBERT or FlauBERT model. This involves using techniques such as grid search or Bayesian optimization to find the optimal set of parameters that could improve the model's performance. It could lead to significant enhancements without changing the model architecture.
+
+**Potential Hyperparameters to Tune:**
+- Learning rate schedules
+- Number of epochs
+- Batch size
+- Weight decay
+- Warm-up steps
+
+The aim is to find a sweet spot that balances the model's ability to learn from the training data without overfitting, thus improving its generalization to new, unseen texts.
+
+**You can also train some GPT's model and give them a bit of money ;)**
+
+
+
+

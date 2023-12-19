@@ -49,7 +49,7 @@ A more in depth analysis is given for each model and metrics in the colab file `
 ### Pre-trained model :eagle:
 After this fist step of trying basic model, we opted to experiment with a pretrained model. After exploring Hugging Face's repository of pretrained models, we identified the CamemBERT model, a French adaptation of the BERT model. Employing the CamemBERT model with a sequence classification produce the most favorable outcomes. We also tried the Flaubert model, which did not produce such a good prediction (we didn't try enough hyper-parameters optimization with it). 
 
-<img src="images/graphe.png" alt="Project Screenshot" width="600"/>
+<img src="images/BERT IMPACT !.png" alt="Project Screenshot" width="600"/>
 
 ***
 

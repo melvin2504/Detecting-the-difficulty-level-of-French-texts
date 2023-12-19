@@ -69,6 +69,6 @@ To interact with our model via an engaging Streamlit application, follow these i
 * Navigate to the directory where you downloaded CEFR_Predictor.py and model_predictor.py.
 * Run the app with: `python -m streamlit run CEFR_Predictor.py`
 * The Streamlit app will start and be available in your web browser. Follow the terminal instructions to view the app.
-* ![Project Screenshot](images/terminal.PNG)
+![Project Screenshot](images/terminal.PNG)
 
 ## Enjoy Interacting with Our French Text Difficulty Predictor !

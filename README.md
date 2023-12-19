@@ -59,7 +59,9 @@ To interact with our model via an engaging Streamlit application, follow these i
 * Download `CEFR_Predictor.py` and `model_predictor.py` from the repository in the StreamlitApp folder.
 
 ### Step 2: Modify the Path in the Code
-* In the `CEFR_Predictor.py` script, update the `model_path` variable to the path where you downloaded the model file. 
+* In the `CEFR_Predictor.py` script, update the `model_path` variable to the path where you downloaded the model file.
+
+![Project Screenshot](images/path.PNG)
 
 ### Step 3: Install Required Libraries
 * Make sure you have the following libraries installed: `pip install torch transformers joblib streamlit`

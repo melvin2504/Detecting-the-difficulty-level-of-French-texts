@@ -62,12 +62,12 @@ To interact with our model via an engaging Streamlit application, follow these i
 * In the `CEFR_Predictor.py` script, update the `model_path` variable to the path where you downloaded the model file. 
 
 ### Step 3: Install Required Libraries
-* Make sure you have the following libraries installed: 'pip install torch transformers joblib streamlit'
+* Make sure you have the following libraries installed: `pip install torch transformers joblib streamlit`
 
 ### Step 4: Run the Streamlit App
 * Open your terminal or command prompt.
 * Navigate to the directory where you downloaded CEFR_Predictor.py and model_predictor.py.
-* Run the app with: 'python -m streamlit run CEFR_Predictor.py'
+* Run the app with: `python -m streamlit run CEFR_Predictor.py`
 * The Streamlit app will start and be available in your web browser. Follow the terminal instructions to view the app.
 
 ## Enjoy Interacting with Our French Text Difficulty Predictor!

@@ -49,6 +49,15 @@ A more in depth analysis is given for each model and metrics in the colab file `
 ### Pre-trained model :eagle:
 After this fist step of trying basic model, we opted to experiment with a pretrained model. After exploring Hugging Face's repository of pretrained models, we identified the CamemBERT model, a French adaptation of the BERT model. Employing the CamemBERT model with a sequence classification produce the most favorable outcomes. We also tried the Flaubert model, which did not produce such a good prediction (we didn't try enough hyper-parameters optimization with it). 
 
+The explanations and steps to build our model are all detailed in the Colab file `COMPETEKAGGLETEST_CamemBERT.ipynb`. We tried a lot of parameters and the best results were with this configuration : 
+* Model: Camembert-baseCCnet
+* Epochs: 3
+* Batch size: 16
+* Learning rate: 5e-5
+* Data split: 80% train, 20% validation
+* Random state: 42
+* Optimizer: AdamW
+
 <img src="images/BERT IMPACT !.png" alt="Project Screenshot" width="600"/>
 
 ***

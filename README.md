@@ -46,3 +46,28 @@ By integrating diverse linguistic features, our goal is to enrich the dataset an
 ***
 ### Pre-trained model :eagle:
 After this fist step of trying basic model, we opted to experiment with a pretrained model. After exploring Hugging Face's repository of pretrained models, we identified the CamemBERT model, a French adaptation of the BERT model. Employing the CamemBERT model with a sequence classification produce the most favorable outcomes. We also tried the Flaubert model, which did not produce such a good prediction (we didn't try enough hyper-parameters optimization with it). 
+
+***
+
+## Launching the Streamlit App :rocket:
+
+To interact with our model via an engaging Streamlit application, follow these instructions:
+
+### Step 1: Download the Model and Scripts
+* Go to the **Releases** section of this GitHub repository.
+* Download the model file (around 422 MB) from the latest release.
+* Download `CEFR_Predictor.py` and `model_predictor.py` from the repository in the StreamlitApp folder.
+
+### Step 2: Modify the Path in the Code
+* In the `CEFR_Predictor.py` script, update the `model_path` variable to the path where you downloaded the model file. 
+
+### Step 3: Install Required Libraries
+* Make sure you have the following libraries installed: pip install torch transformers joblib streamlit
+
+### Step 4: Run the Streamlit App
+* Open your terminal or command prompt.
+* Navigate to the directory where you downloaded CEFR_Predictor.py and model_predictor.py.
+* Run the app with: python -m streamlit run CEFR_Predictor.py
+* The Streamlit app will start and be available in your web browser. Follow the terminal instructions to view the app.
+
+## Enjoy Interacting with Our French Text Difficulty Predictor!

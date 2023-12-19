@@ -89,7 +89,7 @@ To interact with our model via an engaging Streamlit application, follow these i
   
 ![Project Screenshot](images/terminal.PNG)
 
-![Project Screenshot](images/streamapp.PNG)
+![Project Screenshot](images/streamapp.PNG){: width="50%" height="50%"}
 
 ## Next Steps for Model Improvement 🛠️
 

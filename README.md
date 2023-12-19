@@ -45,4 +45,4 @@ By integrating diverse linguistic features, our goal is to enrich the dataset an
 
 ***
 ### Pre-trained model :eagle:
-After this fist step of trying basic model, we opted to experiment with a pretrained model. After exploring Hugging Face's repository of pretrained models, we identified the CamemBERT model, a French adaptation of the BERT model. Employing the CamemBERT model with a sequence classification produce the most favorable outcomes. We also tried the Flaubert model, which did not produce such a good prediction (we didn't try enough hyper-parameters optimization). 
+After this fist step of trying basic model, we opted to experiment with a pretrained model. After exploring Hugging Face's repository of pretrained models, we identified the CamemBERT model, a French adaptation of the BERT model. Employing the CamemBERT model with a sequence classification produce the most favorable outcomes. We also tried the Flaubert model, which did not produce such a good prediction (we didn't try enough hyper-parameters optimization with it). 

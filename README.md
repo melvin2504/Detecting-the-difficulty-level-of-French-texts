@@ -102,7 +102,7 @@ One of the most impactful next steps is to conduct extensive hyperparameter tuni
 - Weight decay
 - Warm-up steps
 
-The aim is to find a sweet spot that balances the model's ability to learn from the training data without overfitting, thus improving its generalization to new, unseen texts.
+The aim is to find a sweet spot that balances the model's ability to learn from the training data without overfitting.
 
 **You can also train some GPT's model and give them a bit of money ;)**
 

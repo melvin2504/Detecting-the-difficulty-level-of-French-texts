@@ -89,6 +89,8 @@ To interact with our model via an engaging Streamlit application, follow these i
   
 ![Project Screenshot](images/terminal.PNG)
 
+![Project Screenshot](images/streamapp.PNG)
+
 ## Next Steps for Model Improvement 🛠️
 
 ### Hyperparameter Optimization 🎛️

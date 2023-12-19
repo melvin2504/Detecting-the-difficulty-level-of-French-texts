@@ -1,4 +1,4 @@
-# Data science and Machine learning - Detecting the difficulty level of French texts 2023 :mechanical_arm:
+# Data science and Machine Learning - Detecting the difficulty level of French texts 2023 :mechanical_arm:
 
 @Groupe: Team Google
 

@@ -59,6 +59,9 @@ The explanations and steps to build our model are all detailed in the Colab file
 * Data split: 80% train, 20% validation
 * Random state: 42
 * Optimizer: AdamW
+
+The other submissions till the end of the Kaggle never reached our `0.595` score. Even with some data augmentations (you change see how we did that in the file `Dataaugmentation.ipynb`).
+
 ***
 
 ## Launching the Streamlit App :rocket:

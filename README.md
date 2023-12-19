@@ -1,6 +1,6 @@
 # Data science and Machine Learning - Detecting the difficulty level of French texts 2023 :mechanical_arm:
 
-@Groupe: Team Google
+Groupe: Team Google
 
 ## Context of the Project :space_invader:
 

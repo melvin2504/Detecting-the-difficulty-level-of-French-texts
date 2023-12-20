@@ -60,7 +60,7 @@ The explanations and steps to build our model are all detailed in the Colab file
 * Random state: 42
 * Optimizer: AdamW
 
-The other submissions till the end of the Kaggle never reached our `0.595` score. Even with some data augmentations (you can see how we did that in the file `Dataaugmentation.ipynb`).
+The other submissions till the end of the Kaggle never reached our `0.595` score. Even with some data augmentations (you can see how we did that in the file `Dataaugmentation.ipynb` in the data folder).
 
 ***
 

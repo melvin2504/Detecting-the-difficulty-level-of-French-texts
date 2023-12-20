@@ -109,7 +109,7 @@ The aim is to find a sweet spot that balances the model's ability to learn from 
 
 **You can also train some GPT's model and give them a bit of money ;)**
 
-[![Watch the Video](images/video-thumbnail.jpg)](https://www.youtube.com/watch?v=lDoErfLFzWc "Watch the Video")
+[![Watch the Video](images/thumbnail.jpg)](https://www.youtube.com/watch?v=lDoErfLFzWc "Watch the Video")
 
 
 
